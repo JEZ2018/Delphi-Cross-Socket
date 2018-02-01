@@ -1,0 +1,13 @@
+http://www.cnblogs.com/xalion/p/8379518.html?mType=Group
+
+利用Delphi-cross-socket 库提升kbmmw 跨平台开发
+
+以前我写过了，通过httpsys 提升windows 下，delphi 多层应用。随着delphi 10.2 对linux 的支持，很多人也想在linux 下
+
+发布kbmmw 服务器，但是官方仅通过indy 支持 linux。刚好国内有大牛开源了Delphi 跨平台 Socket 通讯库.
+
+通过这个可以直接让kbmmw 服务器高速的运行在在windows、linux、Mac 上。
+
+delphi-cross-socket 的开源地址为：https://github.com/winddriver/Delphi-Cross-Socket
+
+下面是官网的部分介绍。
